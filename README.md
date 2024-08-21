@@ -1,2 +1,2 @@
-"# IGiga-crm_3.2-1.2" 
-# IGiga-crm_3.2-1.2
+ 
+# CRM project (Customer Relationship management)
